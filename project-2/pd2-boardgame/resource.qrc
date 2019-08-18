@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="8">src/old_resized_resized.jpg</file>
+        <file alias="-6">src/oldguard (1).png</file>
+        <file alias="6">src/Xiangqi_al1.svg.png</file>
+        <file alias="-2">src/Xiangqi_cd1.svg.png</file>
+        <file alias="2">src/Xiangqi_cl1.svg.png</file>
+        <file alias="-5">src/Xiangqi_ed1.svg.png</file>
+        <file alias="5">src/Xiangqi_el1.svg.png</file>
+        <file alias="-7">src/Xiangqi_gd1.svg.png</file>
+        <file alias="7">src/Xiangqi_gl1.svg.png</file>
+        <file alias="-3">src/Xiangqi_hd1.svg.png</file>
+        <file alias="3">src/Xiangqi_hl1.svg.png</file>
+        <file alias="-4">src/Xiangqi_rd1.svg.png</file>
+        <file alias="4">src/Xiangqi_rl1.svg.png</file>
+        <file alias="-1">src/Xiangqi_sd1.svg.png</file>
+        <file alias="1">src/Xiangqi_sl1.svg.png</file>
+        <file alias="9">src/output-onlinepngtools (1).png</file>
+    </qresource>
+</RCC>
